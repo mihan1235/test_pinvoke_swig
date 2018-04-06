@@ -1,0 +1,7 @@
+C:\Users\mihan\source\repos\test_pinvoke_swig\test_pinvoke_swig\obj\Debug\test_pinvoke_swig.csproj.CoreCompileInputs.cache
+C:\Users\mihan\source\repos\test_pinvoke_swig\_build\x64\Debug\test_pinvoke_swig.exe.config
+C:\Users\mihan\source\repos\test_pinvoke_swig\_build\x64\Debug\test_pinvoke_swig.exe
+C:\Users\mihan\source\repos\test_pinvoke_swig\_build\x64\Debug\test_pinvoke_swig.pdb
+C:\Users\mihan\source\repos\test_pinvoke_swig\test_pinvoke_swig\obj\Debug\test_pinvoke_swig.exe
+C:\Users\mihan\source\repos\test_pinvoke_swig\test_pinvoke_swig\obj\Debug\test_pinvoke_swig.pdb
+C:\Users\mihan\source\repos\test_pinvoke_swig\test_pinvoke_swig\obj\Debug\test_pinvoke_swig.csprojResolveAssemblyReference.cache
